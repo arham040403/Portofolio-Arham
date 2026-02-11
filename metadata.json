@@ -1,0 +1,7 @@
+{
+  "name": "Arham Portfolio - UI/UX Designer",
+  "description": "A world-class minimalist portfolio for Arham, a UI/UX Designer, featuring a projects gallery, skill showcase, and an integrated Gemini-powered AI assistant for inquiries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
